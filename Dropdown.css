@@ -22,7 +22,7 @@ body
 {
   margin: 0;
   padding: 0;
-  background-image: linear-gradient(to right bottom, green,red,yellow);
+  background-colour:black;
   height: 100vh;
 }
 nav
